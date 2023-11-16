@@ -1,4 +1,4 @@
-# Matrix Addition with MPI
+# Suma de matrices con MPI
 
 Este repositorio contiene un programa en C que realiza la suma de matrices en paralelo utilizando la biblioteca MPI. También incluye scripts en Python (`comprobarResultados.py` y `plot.py`) para verificar los resultados y visualizar el rendimiento.
 
