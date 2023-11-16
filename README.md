@@ -19,7 +19,7 @@ Este repositorio contiene un programa en C que realiza la suma de matrices en pa
 1. **Compilación del Código:**
 
    ```bash
-   mpicc matrix_addition_mpi.c -o matrix_addition_mpi
+   mpicc mpiProgram.c -o mpi
 Ejecución del Programa MPI:
 Ejecutar: mpirun -n <num_procesos> ./mpi
   reemplazar <num_procesos> con el número deseado de procesos MPI.
